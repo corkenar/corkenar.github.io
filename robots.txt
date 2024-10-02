@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://corkenar.github.io/sitemap.html.gz
+Sitemap: https://corkenar.github.io/app/sitemap.html.gz
+Sitemap: https://corkenar.github.io/assets/sitemap.html.gz
+Sitemap: https://corkenar.github.io/css/sitemap.html.gz
+Sitemap: https://corkenar.github.io/data/sitemap.html.gz
+Sitemap: https://corkenar.github.io/includes/sitemap.html.gz
+Sitemap: https://corkenar.github.io/item/sitemap.html.gz
+Sitemap: https://corkenar.github.io/src/sitemap.html.gz
